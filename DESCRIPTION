@@ -1,0 +1,9 @@
+Package: FavoriteColor
+Title: Tells you your favorite color, or rather, decides it for you
+Version: 0.1
+Authors@R: person("Charlotte", "Looby", email = "charlotte.looby@gmail.com",
+                  role = c("aut", "cre"))
+Description: This package contains a compliment function and a magic eight ball function.
+Depends: R (>= 3.1.0)
+License: N/A
+LazyData: true
